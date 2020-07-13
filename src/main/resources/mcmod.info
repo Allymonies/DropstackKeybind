@@ -1,0 +1,16 @@
+[
+{
+  "modid": "DropstackKeybind",
+  "name": "DropstackKeybind",
+  "description": "Adds a keybind to drop stack",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Allymonies"],
+  "credits": "Allymonies",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
